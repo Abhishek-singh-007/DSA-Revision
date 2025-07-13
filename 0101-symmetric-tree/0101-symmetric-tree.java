@@ -19,11 +19,9 @@ class Solution {
         q.add(root.left);
         q.add(root.right);
         while(!q.isEmpty()){
-            TreeNode left = q.poll();
-            TreeNode right = q.poll();
-            if(left == null && right == null){
-                continue;
-            }
+            TreeNode left=q.poll();
+            TreeNode right=q.poll();
+            if(left == null && right == null) continue;
             if(left == null || right == null) return false;
             if(left.val != right.val) return false;
             q.add(left.left);
