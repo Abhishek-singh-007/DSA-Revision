@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0038-count-and-say) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
 | [2373-apply-discount-to-prices](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2373-apply-discount-to-prices) |
