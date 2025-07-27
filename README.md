@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Graph
@@ -169,4 +171,16 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
