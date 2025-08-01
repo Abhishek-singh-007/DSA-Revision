@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -54,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
