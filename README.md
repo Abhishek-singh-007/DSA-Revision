@@ -61,6 +61,7 @@
 | [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
+| [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -89,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3201-distribute-candies-among-children-ii) |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
