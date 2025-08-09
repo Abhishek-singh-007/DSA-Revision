@@ -224,4 +224,5 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0021-merge-two-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
