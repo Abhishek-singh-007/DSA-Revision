@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -236,6 +237,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
