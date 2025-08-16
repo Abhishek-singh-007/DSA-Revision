@@ -104,6 +104,7 @@
 | [0342-power-of-four](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3201-distribute-candies-among-children-ii) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
+| [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Two Pointers
