@@ -16,6 +16,7 @@
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
+| [0679-24-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
@@ -109,6 +110,7 @@
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
@@ -270,4 +272,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
