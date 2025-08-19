@@ -74,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
@@ -96,6 +97,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Counting
@@ -109,6 +111,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0342-power-of-four) |
