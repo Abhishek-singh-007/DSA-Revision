@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
@@ -108,6 +110,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -216,6 +219,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -242,6 +246,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
