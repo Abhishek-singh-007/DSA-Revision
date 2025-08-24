@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
+| [0221-maximal-square](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
@@ -42,6 +43,7 @@
 | [0054-spiral-matrix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
@@ -89,6 +91,7 @@
 | [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0221-maximal-square](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0747-min-cost-climbing-stairs) |
