@@ -30,6 +30,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
+| [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -105,6 +106,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
+| [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -204,6 +206,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
+| [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Two Pointers
