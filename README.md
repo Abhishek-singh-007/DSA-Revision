@@ -64,6 +64,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
@@ -140,6 +142,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0326-power-of-three) |
