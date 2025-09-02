@@ -151,6 +151,7 @@
 | [0342-power-of-four](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
+| [0866-rectangle-overlap](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0866-rectangle-overlap) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -335,4 +336,8 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0686-repeated-string-match) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
