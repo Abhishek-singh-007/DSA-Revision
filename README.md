@@ -31,6 +31,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -95,6 +96,7 @@
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3227-find-missing-and-repeated-values) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
