@@ -71,6 +71,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
@@ -295,6 +296,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
