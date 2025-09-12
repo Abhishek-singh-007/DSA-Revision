@@ -369,4 +369,8 @@
 | [0223-rectangle-area](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0866-rectangle-overlap) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
