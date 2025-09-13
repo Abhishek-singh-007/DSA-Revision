@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
@@ -279,6 +281,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
