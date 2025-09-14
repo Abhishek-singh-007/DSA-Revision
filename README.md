@@ -28,6 +28,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
+| [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -79,6 +80,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0686-repeated-string-match) |
+| [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2373-apply-discount-to-prices](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2373-apply-discount-to-prices) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -100,6 +102,7 @@
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
+| [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
