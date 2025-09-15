@@ -395,4 +395,5 @@
 | [0185-department-top-three-salaries](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0197-rising-temperature) |
+| [1179-game-play-analysis-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
