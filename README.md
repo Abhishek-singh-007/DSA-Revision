@@ -396,6 +396,7 @@
 | [0196-delete-duplicate-emails](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0577-employee-bonus) |
 | [1179-game-play-analysis-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
