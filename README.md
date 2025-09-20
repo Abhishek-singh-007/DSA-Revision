@@ -51,6 +51,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [3678-design-task-manager](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -278,6 +280,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -340,6 +343,7 @@
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -378,6 +382,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -437,4 +442,5 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
