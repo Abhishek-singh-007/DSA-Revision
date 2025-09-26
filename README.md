@@ -25,6 +25,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0679-24-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
+| [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1917-maximum-average-pass-ratio) |
@@ -282,6 +284,7 @@
 | [0165-compare-version-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
@@ -313,6 +317,7 @@
 | [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
+| [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
