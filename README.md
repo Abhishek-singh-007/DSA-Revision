@@ -82,6 +82,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
+| [3336-water-bottles-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-water-bottles-ii) |
 ## String
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3336-water-bottles-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-water-bottles-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3830-find-closest-person) |
 ## Tree
