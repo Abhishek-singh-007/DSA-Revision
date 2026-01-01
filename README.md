@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
@@ -196,6 +197,7 @@
 | [0002-add-two-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
