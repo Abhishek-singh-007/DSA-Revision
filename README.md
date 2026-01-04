@@ -36,6 +36,7 @@
 | [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1390-four-divisors](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -210,6 +211,7 @@
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
