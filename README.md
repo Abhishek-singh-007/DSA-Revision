@@ -101,6 +101,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0686-repeated-string-match) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -155,6 +156,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
