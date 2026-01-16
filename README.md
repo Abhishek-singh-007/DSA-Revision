@@ -60,6 +60,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2529-range-product-queries-of-powers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3453-separate-squares-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3453-separate-squares-i) |
@@ -146,6 +147,7 @@
 | [2023-design-movie-rental-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3227-find-missing-and-repeated-values) |
 | [3678-design-task-manager](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -290,6 +292,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
