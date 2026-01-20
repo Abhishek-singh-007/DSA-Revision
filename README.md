@@ -64,6 +64,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3454-separate-squares-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -366,6 +367,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sorting
 |  |
