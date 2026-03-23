@@ -15,11 +15,11 @@ class Solution {
         for(int i=1; i<=n; i++){
             fast=fast.next;
         }
-        if(fast == null){
-            head = head.next;
+        if(fast==null){
+            head=head.next;
             return head;
         }
-        while(fast.next!=null){
+        while(fast.next != null){
             fast=fast.next;
             slow=slow.next;
         }
