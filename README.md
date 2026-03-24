@@ -336,6 +336,7 @@
 | [0061-rotate-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0165-compare-version-numbers) |
@@ -462,6 +463,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design
