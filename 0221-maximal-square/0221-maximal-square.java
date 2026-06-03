@@ -1,7 +1,5 @@
 class Solution {
-
     public int solve(char[][] mat, int i, int j, int maxi, int[][] dp){
- 
         if(i >=  mat.length || j >= mat[0].length){
             return 0;
         }
@@ -26,13 +24,11 @@ class Solution {
                 dp[i][j] = -1;
             }
         }
-
        for (int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[0].length; j++) {
                 maxi = Math.max(maxi, solve(mat, i, j,maxi, dp));
             }
         }
-
         return maxi * maxi; 
     }
 }
