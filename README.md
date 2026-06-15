@@ -362,6 +362,7 @@
 | [0283-move-zeroes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -487,6 +488,7 @@
 | [0086-partition-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
