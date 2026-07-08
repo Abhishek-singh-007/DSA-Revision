@@ -130,6 +130,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -267,6 +268,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3830-find-closest-person) |
 ## Tree
 |  |
@@ -335,6 +337,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2529-range-product-queries-of-powers) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
