@@ -39,6 +39,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0983-minimum-cost-for-tickets) |
 | [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1288-remove-covered-intervals) |
@@ -188,6 +189,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1013-fibonacci-number) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1458-max-dot-product-of-two-subsequences) |
