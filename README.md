@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0033-search-in-rotated-sorted-array) |
@@ -355,6 +356,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
@@ -369,6 +371,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0027-remove-element) |
