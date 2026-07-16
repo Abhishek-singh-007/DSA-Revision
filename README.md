@@ -32,6 +32,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0679-24-game) |
@@ -189,6 +190,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
