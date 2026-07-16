@@ -200,6 +200,7 @@
 | [1013-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1013-fibonacci-number) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
