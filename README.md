@@ -129,6 +129,7 @@
 | [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0165-compare-version-numbers) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0120-triangle) |
