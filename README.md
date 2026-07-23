@@ -24,6 +24,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -133,6 +134,7 @@
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0165-compare-version-numbers) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
@@ -165,6 +167,7 @@
 | [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0217-contains-duplicate) |
@@ -204,6 +207,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0279-perfect-squares) |
@@ -253,6 +257,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -655,4 +660,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0274-h-index) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
