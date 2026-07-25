@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
@@ -518,6 +519,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
@@ -525,6 +527,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
