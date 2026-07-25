@@ -204,6 +204,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
@@ -286,6 +287,7 @@
 | [0002-add-two-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0223-rectangle-area) |
@@ -370,6 +372,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
