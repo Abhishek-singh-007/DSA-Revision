@@ -168,6 +168,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -205,6 +206,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3227-find-missing-and-repeated-values) |
@@ -297,6 +299,7 @@
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -446,6 +449,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -526,6 +530,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3536-maximum-product-of-two-digits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3748-sort-matrix-by-diagonals) |
