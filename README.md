@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -184,6 +185,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
