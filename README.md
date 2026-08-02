@@ -497,6 +497,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0354-russian-doll-envelopes) |
+| [0374-guess-number-higher-or-lower](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1027-longest-arithmetic-subsequence) |
@@ -735,4 +736,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0486-predict-the-winner) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
