@@ -74,6 +74,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -268,6 +269,7 @@
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1191-k-concatenation-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
 | [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
@@ -338,6 +340,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
@@ -738,8 +741,17 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
