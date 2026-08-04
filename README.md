@@ -87,6 +87,7 @@
 | [2023-design-movie-rental-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2023-design-movie-rental-system) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2429-design-a-food-rating-system) |
@@ -489,6 +490,7 @@
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -510,6 +512,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1027-longest-arithmetic-subsequence) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3453-separate-squares-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3454-separate-squares-ii) |
@@ -547,6 +550,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1288-remove-covered-intervals) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2943-maximize-area-of-square-hole-in-grid) |
