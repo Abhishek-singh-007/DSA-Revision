@@ -1,42 +1,32 @@
 class Solution {
-    public int splitArray(int[] nums, int k) {
-
+    public int splitArray(int[] weights, int days) {
         int low = 0;
         int high = 0;
-
         // Search Space
-        for (int num : nums) {
-            low = Math.max(low, num);
-            high += num;
+        for (int weight : weights) {
+            low = Math.max(low, weight);
+            high += weight;
         }
-
         int ans = high;
-
         while (low <= high) {
-
             int mid = low + (high - low) / 2;
-
-            int parts = 1;
-            int sum = 0;
-
-            for (int num : nums) {
-
-                if (sum + num <= mid) {
-                    sum += num;
+            int daysUsed = 1;
+            int load = 0;
+            for (int weight : weights) {
+                if (load + weight <= mid) {
+                    load += weight;
                 } else {
-                    parts++;
-                    sum = num;
+                    daysUsed++;
+                    load = weight;
                 }
             }
-
-            if (parts <= k) {
+            if (daysUsed <= days) {
                 ans = mid;
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
-
         return ans;
     }
 }
