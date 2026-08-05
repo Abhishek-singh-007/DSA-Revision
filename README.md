@@ -395,6 +395,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3310-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -408,6 +409,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3310-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Combinatorics
@@ -736,6 +738,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3310-remove-methods-from-project) |
 ## Counting Sort
 |  |
 | ------- |
