@@ -79,6 +79,7 @@
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -520,6 +521,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1027-longest-arithmetic-subsequence) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
