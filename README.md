@@ -48,6 +48,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
@@ -254,6 +255,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0509-fibonacci-number) |
@@ -443,6 +445,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0410-split-array-largest-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2529-range-product-queries-of-powers) |
@@ -455,6 +458,7 @@
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
@@ -509,6 +513,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0704-binary-search) |
