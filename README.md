@@ -63,6 +63,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0983-minimum-cost-for-tickets) |
 | [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -511,6 +512,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1027-longest-arithmetic-subsequence) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
