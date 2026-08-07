@@ -182,6 +182,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3617-find-the-original-typed-string-i) |
@@ -365,6 +366,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3336-water-bottles-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -473,6 +475,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -673,6 +676,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0679-24-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0679-24-game) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -724,6 +728,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Ordered Set
 |  |
 | ------- |
