@@ -182,6 +182,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -286,6 +287,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -475,6 +477,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -502,6 +505,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
