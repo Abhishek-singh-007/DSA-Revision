@@ -69,6 +69,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1191-k-concatenation-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1266-minimum-time-visiting-all-points) |
@@ -274,6 +275,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1191-k-concatenation-maximum-sum) |
@@ -348,6 +350,7 @@
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
@@ -451,6 +454,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0410-split-array-largest-sum) |
+| [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2529-range-product-queries-of-powers) |
@@ -769,6 +773,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 ## Interactive
 |  |
@@ -777,9 +782,11 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
