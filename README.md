@@ -802,4 +802,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
