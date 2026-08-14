@@ -184,6 +184,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2887-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -226,6 +227,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3227-find-missing-and-repeated-values) |
@@ -455,6 +457,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
