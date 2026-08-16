@@ -523,6 +523,7 @@
 | [0392-is-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -625,6 +626,7 @@
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -686,6 +688,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
