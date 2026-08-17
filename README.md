@@ -209,6 +209,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
@@ -689,6 +690,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0237-delete-node-in-a-linked-list) |
