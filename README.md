@@ -82,6 +82,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1563-stone-game-v](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1563-stone-game-v) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1917-maximum-average-pass-ratio) |
@@ -292,6 +293,7 @@
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1563-stone-game-v) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
 | [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -369,6 +371,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1563-stone-game-v) |
 | [1642-water-bottles](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1642-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2029-stone-game-ix) |
@@ -802,6 +805,7 @@
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2029-stone-game-ix) |
 ## Interactive
 |  |
