@@ -406,6 +406,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -418,6 +419,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0101-symmetric-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -435,6 +437,7 @@
 | [0101-symmetric-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0102-binary-tree-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0279-perfect-squares) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -613,6 +616,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0102-binary-tree-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
