@@ -106,6 +106,7 @@
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -154,6 +155,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-water-bottles-ii) |
 ## String
 |  |
