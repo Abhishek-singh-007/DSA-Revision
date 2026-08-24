@@ -59,6 +59,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
@@ -287,6 +288,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0983-minimum-cost-for-tickets) |
@@ -370,6 +372,7 @@
 | [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0830-largest-triangle-area) |
 | [0866-rectangle-overlap](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0866-rectangle-overlap) |
+| [0877-stone-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
@@ -833,6 +836,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
@@ -846,6 +850,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
@@ -854,6 +859,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
