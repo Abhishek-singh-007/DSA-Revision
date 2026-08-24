@@ -86,6 +86,7 @@
 | [1563-stone-game-v](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1563-stone-game-v) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1872-stone-game-viii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1872-stone-game-viii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
 | [1975-maximum-matrix-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1975-maximum-matrix-sum) |
@@ -303,6 +304,7 @@
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1563-stone-game-v) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
+| [1872-stone-game-viii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1872-stone-game-viii) |
 | [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -381,6 +383,7 @@
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1563-stone-game-v) |
 | [1642-water-bottles](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1642-water-bottles) |
+| [1872-stone-game-viii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2029-stone-game-ix) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -489,6 +492,7 @@
 | [0410-split-array-largest-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1872-stone-game-viii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1872-stone-game-viii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2529-range-product-queries-of-powers) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -833,6 +837,7 @@
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2029-stone-game-ix) |
 ## Interactive
 |  |
@@ -844,6 +849,7 @@
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -851,6 +857,7 @@
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
