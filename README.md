@@ -179,6 +179,7 @@
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
@@ -274,6 +275,7 @@
 | [0072-edit-distance](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
