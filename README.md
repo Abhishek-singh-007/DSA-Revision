@@ -189,6 +189,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
 | [1143-longest-common-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -302,6 +303,7 @@
 | [0826-soup-servings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0826-soup-servings) |
 | [0877-stone-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1013-fibonacci-number) |
