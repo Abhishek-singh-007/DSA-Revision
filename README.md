@@ -60,6 +60,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
@@ -145,6 +146,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0835-image-overlap) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
 | [1260-shift-2d-grid](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
