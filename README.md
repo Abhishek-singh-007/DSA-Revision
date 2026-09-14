@@ -705,6 +705,7 @@
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
@@ -783,6 +784,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0155-min-stack) |
 | [2023-design-movie-rental-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3678-design-task-manager) |
