@@ -189,6 +189,7 @@
 | [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0165-compare-version-numbers) |
+| [0224-basic-calculator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
@@ -384,6 +385,7 @@
 | [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0223-rectangle-area](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0326-power-of-three) |
@@ -710,6 +712,7 @@
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
@@ -756,6 +759,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0342-power-of-four) |
