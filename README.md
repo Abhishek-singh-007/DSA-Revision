@@ -460,6 +460,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -476,6 +477,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -701,6 +703,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -969,4 +972,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
