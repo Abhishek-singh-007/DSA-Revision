@@ -204,6 +204,7 @@
 | [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
 | [1143-longest-common-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -257,6 +258,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2023-design-movie-rental-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2023-design-movie-rental-system) |
@@ -577,6 +579,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1386-cinema-seat-allocation](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
@@ -689,6 +692,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1288-remove-covered-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2887-sort-vowels-in-a-string) |
