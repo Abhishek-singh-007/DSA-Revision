@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0063-unique-paths-ii) |
@@ -186,6 +187,7 @@
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0115-distinct-subsequences) |
@@ -240,6 +242,7 @@
 | [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
@@ -682,6 +685,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0217-contains-duplicate) |
