@@ -48,6 +48,7 @@
 | [0283-move-zeroes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0410-split-array-largest-sum) |
@@ -310,6 +311,7 @@
 | [0221-maximal-square](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0392-is-subsequence) |
@@ -515,6 +517,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
@@ -996,4 +999,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
