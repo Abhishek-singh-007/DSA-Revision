@@ -8,11 +8,10 @@ class Solution {
         int mini=Integer.MAX_VALUE;
         // step 2
         for(int i=0; i<coins.length; i++){
-            int ans=solvememo(coins,x-coins[i],dp);
+            int ans = solvememo(coins,x-coins[i],dp);
             if(ans != Integer.MAX_VALUE){
                 mini=Math.min(mini,1+ans);
             }
-            
         }
         dp[x]=mini;
         return dp[x];
