@@ -926,6 +926,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
