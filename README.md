@@ -420,6 +420,7 @@
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -863,6 +864,7 @@
 | [0836-rectangle-overlap](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0836-rectangle-overlap) |
 | [0866-rectangle-overlap](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0866-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Database
 |  |
