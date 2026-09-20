@@ -5,9 +5,9 @@ class Solution {
         if(dp[i][j] != -1)return dp[i][j];
         int ans=0;
         if(s1.charAt(i)==s2.charAt(j)){
-            ans=1+solve(s1,s2,i+1,j+1,dp);
+            ans = 1+ solve(s1,s2,i+1,j+1,dp);
         }else{
-            ans=Math.max(solve(s1,s2,i+1,j,dp),solve(s1,s2,i,j+1,dp));
+            ans = Math.max(solve(s1,s2,i+1,j,dp),solve(s1,s2,i,j+1,dp));
         }
         return dp[i][j]=ans;
     }
