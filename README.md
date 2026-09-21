@@ -131,6 +131,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3524-find-x-value-of-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3731-find-missing-elements) |
@@ -362,6 +363,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3524-find-x-value-of-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -458,6 +460,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
