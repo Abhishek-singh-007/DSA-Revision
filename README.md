@@ -211,6 +211,7 @@
 | [0392-is-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
@@ -648,6 +649,7 @@
 | [0283-move-zeroes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
