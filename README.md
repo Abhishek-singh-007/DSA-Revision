@@ -207,6 +207,7 @@
 | [0224-basic-calculator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0516-longest-palindromic-subsequence) |
@@ -262,6 +263,7 @@
 | [0217-contains-duplicate](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -392,6 +394,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -800,6 +803,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0954-maximum-sum-circular-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
