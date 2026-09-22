@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -192,6 +193,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0038-count-and-say) |
@@ -979,6 +981,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0139-word-break) |
 ## Game Theory
 |  |
