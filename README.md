@@ -200,6 +200,7 @@
 | [0038-count-and-say](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0115-distinct-subsequences) |
