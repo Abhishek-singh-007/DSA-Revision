@@ -436,6 +436,7 @@
 | [0069-sqrtx](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
