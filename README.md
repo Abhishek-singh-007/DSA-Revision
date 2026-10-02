@@ -201,6 +201,7 @@
 | [0014-longest-common-prefix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0063-unique-paths-ii) |
@@ -927,6 +929,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0022-generate-parentheses) |
 | [0679-24-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1078,6 +1081,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
