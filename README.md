@@ -203,6 +203,7 @@
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0049-group-anagrams) |
@@ -322,6 +323,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0063-unique-paths-ii) |
@@ -826,6 +828,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1091,6 +1094,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
