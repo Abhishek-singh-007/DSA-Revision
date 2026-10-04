@@ -522,6 +522,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -803,6 +804,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -834,6 +836,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0394-decode-string) |
@@ -928,6 +931,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
 | [2023-design-movie-rental-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3678-design-task-manager) |
@@ -1120,6 +1124,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Lifting
 |  |
@@ -1145,4 +1150,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0148-sort-list) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
