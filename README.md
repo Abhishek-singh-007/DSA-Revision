@@ -523,6 +523,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -714,6 +715,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0354-russian-doll-envelopes) |
@@ -739,6 +741,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0342-power-of-four) |
@@ -805,6 +808,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
