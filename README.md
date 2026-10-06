@@ -529,6 +529,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -557,6 +558,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -814,6 +816,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -963,6 +966,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0686-repeated-string-match) |
 ## Geometry
 |  |
@@ -1161,4 +1165,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
