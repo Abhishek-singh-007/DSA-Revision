@@ -1,28 +1,25 @@
 class Solution {
-     public List<Double> averageOfLevels(TreeNode root) {
-        List<Double> result  = new ArrayList<>();
-        if(root == null){
-            return result;
-        }
-            Queue <TreeNode> queue = new LinkedList<>();
-            queue.add(root);
-            while(!queue.isEmpty()){
-                int levelsize = queue.size();
-                double averagelevel = 0;
-                for(int i=0; i < levelsize; i++){
-                   TreeNode currentNode = queue.poll();
-                   averagelevel += currentNode.val;
-                    if(currentNode.left != null){
-                        queue.add(currentNode.left);
-                    }
-                    if(currentNode.right != null){
-                        queue.add(currentNode.right);
-                    }
+    public List<Double> averageOfLevels(TreeNode root) {
+        ArrayList<Double> ans = new ArrayList<>();
+        Queue<TreeNode> q = new LinkedList<>();
+        if(root == null)return ans;
+        q.add(root);
+        while(!q.isEmpty()){
+            double avg=0;
+            int size=q.size();
+            for(int i=0; i<size; i++){
+                TreeNode curr=q.poll();
+                avg += curr.val;
+                if(curr.left != null){
+                    q.add(curr.left);
                 }
-                averagelevel = averagelevel / levelsize;
-                result.add(averagelevel);
+                if(curr.right != null){
+                    q.add(curr.right);
+                }
             }
-        
-        return result;
+            avg /= size;
+            ans.add(avg);
+        }
+        return ans;
     }
 }
