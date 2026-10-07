@@ -217,6 +217,7 @@
 | [0165-compare-version-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0165-compare-version-numbers) |
 | [0224-basic-calculator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0392-is-subsequence) |
@@ -587,6 +588,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -955,6 +957,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
