@@ -236,6 +236,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -666,6 +667,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-maximum-69-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1917-maximum-average-pass-ratio) |
 | [1952-minimum-sideway-jumps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1952-minimum-sideway-jumps) |
@@ -862,6 +864,7 @@
 | [1096-brace-expansion-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1628-count-submatrices-with-all-ones) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1122,6 +1125,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## DP on Trees
 |  |
