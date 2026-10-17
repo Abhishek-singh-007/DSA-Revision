@@ -138,6 +138,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3731-find-missing-elements) |
@@ -315,6 +316,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3227-find-missing-and-repeated-values) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3678-design-task-manager](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3678-design-task-manager) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3731-find-missing-elements) |
@@ -799,6 +801,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Tree
