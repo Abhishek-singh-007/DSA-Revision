@@ -290,6 +290,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1006-vowel-spellchecker) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -539,6 +540,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -569,6 +571,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -600,6 +603,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0945-snakes-and-ladders) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1096-brace-expansion-ii) |
@@ -786,6 +790,7 @@
 | [0611-valid-triangle-number](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0900-reordered-power-of-2](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0900-reordered-power-of-2) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1096-brace-expansion-ii) |
@@ -832,6 +837,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
