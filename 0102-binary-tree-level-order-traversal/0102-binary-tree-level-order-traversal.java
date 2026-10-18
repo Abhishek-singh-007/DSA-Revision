@@ -4,10 +4,8 @@ class Solution {
         if(root == null){
             return result;
         }
-
             Queue <TreeNode> queue = new LinkedList<>();
             queue.add(root);
-
             while(!queue.isEmpty()){
                 int levelsize = queue.size();
                 List<Integer> currlevel  = new ArrayList<>();
