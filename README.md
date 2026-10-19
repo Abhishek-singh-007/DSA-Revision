@@ -547,6 +547,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -579,6 +580,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -611,6 +613,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3310-remove-methods-from-project) |
@@ -848,6 +851,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
