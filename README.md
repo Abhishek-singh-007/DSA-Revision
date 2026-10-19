@@ -104,6 +104,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2023-design-movie-rental-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2023-design-movie-rental-system) |
 | [2029-stone-game-ix](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -746,6 +747,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -796,6 +798,7 @@
 | [1096-brace-expansion-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1288-remove-covered-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2479-meeting-rooms-iii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2887-sort-vowels-in-a-string) |
