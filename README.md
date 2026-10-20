@@ -150,6 +150,7 @@
 | [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -513,6 +514,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
@@ -642,6 +644,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3886-sum-of-sortable-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -817,6 +820,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3748-sort-matrix-by-diagonals) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Tree
 |  |
 | ------- |
