@@ -84,6 +84,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -474,6 +475,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1018-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1266-minimum-time-visiting-all-points) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1406-stone-game-iii) |
@@ -667,6 +669,7 @@
 | [0410-split-array-largest-sum](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1872-stone-game-viii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2529-range-product-queries-of-powers) |
@@ -981,6 +984,7 @@
 | [0146-lru-cache](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1352-product-of-the-last-k-numbers) |
 | [2023-design-movie-rental-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3678-design-task-manager) |
@@ -1213,4 +1217,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
