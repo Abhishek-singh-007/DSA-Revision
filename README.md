@@ -132,6 +132,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3453-separate-squares-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3454-separate-squares-ii) |
@@ -502,6 +503,7 @@
 | [3336-water-bottles-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -646,6 +648,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -662,6 +665,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
@@ -1061,6 +1065,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Ordered Set
 |  |
 | ------- |
