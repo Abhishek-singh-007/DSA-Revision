@@ -156,6 +156,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -333,6 +334,7 @@
 | [3797-design-spreadsheet](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -777,6 +779,7 @@
 | [3453-separate-squares-i](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3454-separate-squares-ii) |
 | [3827-implement-router](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1222,8 +1225,17 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3934-smallest-unique-subarray) |
 ## Data Stream
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
