@@ -552,6 +552,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -864,6 +865,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0652-find-duplicate-subtrees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1193,6 +1195,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
