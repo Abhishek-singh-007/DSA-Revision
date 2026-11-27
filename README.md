@@ -548,6 +548,7 @@
 | [0226-invert-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -862,6 +863,7 @@
 | [0226-invert-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1197,6 +1199,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Abhishek-singh-007/DSA-Revision/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Lifting
